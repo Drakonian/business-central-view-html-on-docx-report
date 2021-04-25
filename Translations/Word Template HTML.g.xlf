@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Word Template HTML">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2518597214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content Storage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHTML Content Storage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518597214 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHTML Content Storage - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518597214 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHTML Content Storage - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2518597214 - Field 530951392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HTML Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHTML Content Storage - Field HTML Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content Storage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - NamedType 2526749218" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ContentViewAsHtml.html</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - NamedType HTMLFileNameLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - NamedType 1036916609" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HTML Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - NamedType HTMLTitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - NamedType 3203928494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HTML,Word</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - NamedType OptionsLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - NamedType 895773054" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download as</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - NamedType SelectionLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - NamedType 4065515087" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ContentViewAsDocx.docx</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - NamedType WordFileNameLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - Action 690932481 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - Action WHTMLAddHTMLContent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - Action 690932481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - Action WHTMLAddHTMLContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - Action 1291689512 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - Action WHTMLDownloadAsHtmlorDocx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - Action 1291689512 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - Action WHTMLDownloadAsHtmlorDocx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - Action 3007951453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - Action WHTMLViewHTMLContent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2518597214 - Action 3007951453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHTML Content Storage - Action WHTMLViewHTMLContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1594546645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report WHTML HTML Content View - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
