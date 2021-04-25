@@ -89,9 +89,9 @@ page 70000 "WHTML Content Storage"
             }
         }
     }
-
     local procedure UploadContent()
     var
+        WHTMLReportMgt: Codeunit "WHTML Report Processing";
         FilePath: Text;
         InStreamVar: InStream;
         OutStreamVar: OutStream;
@@ -103,6 +103,7 @@ page 70000 "WHTML Content Storage"
         Rec."HTML Content".CreateOutStream(OutStreamVar);
         CopyStream(OutStreamVar, InStreamVar);
         Rec.Insert(true);
+        CurrPage.WHTMLConvertHtmlToDocx.LoadHtmlView(WHTMLReportMgt.ConvertReportToValidHTML(Report::"WHTML HTML Content View"));
         CurrPage.Update(false);
     end;
 
